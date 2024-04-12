@@ -5,24 +5,36 @@
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://twitter.com/n1ck3nddsec"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nielsh23/"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: hackthebox
+  icon: "fa-solid fa-cube"
+  url: "https://app.hackthebox.com/profile/169456"
+
+- type: tryhackme
+  icon: "fa-solid fa-cloud"
+  url: "https://tryhackme.com/p/N1ck3nd"
+# - type: PentesterLab
+#   icon: "fa-solid fa-pen"
+#   url: "https://pentesterlab.com/profile/n1ck3nd"
 # Uncomment and complete the url below to enable more contact options
-#
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+
+# - type: mastodon
+#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+
+# - type: email
+#   icon: "fa-solid fa-envelope"
+#   noblank: true # open link in current tab
+
+# - type: rss
+#   icon: "fa-solid fa-cube"
+#   noblank: true
