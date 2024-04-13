@@ -208,6 +208,7 @@ exclude:
 
 include:
   - _headers
+  - .ruby-version
 
 jekyll-archives:
   enabled: [categories, tags]
