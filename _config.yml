@@ -206,6 +206,9 @@ exclude:
   - rollup.config.js
   - package*.json
 
+include:
+  - _headers
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
