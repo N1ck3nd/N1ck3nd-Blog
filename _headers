@@ -2,4 +2,3 @@
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
-  Content-Security-Policy: frame-src 'self'; img-src 'self'; style-src 'self'; object-src 'none'; script-src 'self' 'sha256-1PR7ZaxZCK2B2UDm0CdKvQek9g6D5f0FDQXBjQVURF4=' https://cdn.jsdelivr.net/combine/npm/jquery@3.7.1/dist/jquery.min.js,npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js,npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/dayjs@1.11.10/dayjs.min.js,npm/dayjs@1.11.10/locale/en.min.js,npm/dayjs@1.11.10/plugin/relativeTime.min.js,npm/dayjs@1.11.10/plugin/ 'sha256-5+qSpTaWXhgYxpO17fwPVTAbs/CcAozYL2Zvv9SoTQk=';
