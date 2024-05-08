@@ -1,9 +1,10 @@
 ---
 title: 'Generate Your Own API Documentation'
 date: 2024-04-25 15:50:00 +0800
-categories: [web]
-tags: [API, web]
-img_path: /assets/posts/2024-04-25-Generate-Your-Own-API-Documentation/
+categories: [Web]
+tags: [api]
+image:
+  path: /assets/posts/2024-04-25-Generate-Your-Own-API-Documentation/thumbnail.png
 ---
 
 During a web application assessment, I was testing a web application which, like many web apps, interacted with a database system via a web API. Since the scope solely allowed for testing from a front-end perspective, I was not provided with any API documentation such as Postman or Swagger files.

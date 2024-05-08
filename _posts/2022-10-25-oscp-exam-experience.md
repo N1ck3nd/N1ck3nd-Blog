@@ -1,8 +1,10 @@
 ---
-title: 'OSCP Exam Experience | 2022'
+title: 'OSCP Exam Experience'
 date: 2022-10-25 20:55:00 +0800
-categories: [OSCP, Certifications]
-tags: [Certifications]
+categories: [Certifications]
+tags: [oscp]
+image:
+  path: /assets/posts/2022-10-25-OSCP-Exam-Experience/thumbnail.png
 ---
 
 I passed the OSCP exam with 90 points (80 + 10 bonus points)!
