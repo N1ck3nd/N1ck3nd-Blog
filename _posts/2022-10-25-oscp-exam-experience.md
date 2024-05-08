@@ -5,6 +5,7 @@ categories: [Certifications]
 tags: [oscp]
 image:
   path: /assets/posts/2022-10-25-OSCP-Exam-Experience/thumbnail.png
+  alt: 'Thumbnail image with title'
 ---
 
 I passed the OSCP exam with 90 points (80 + 10 bonus points)!
