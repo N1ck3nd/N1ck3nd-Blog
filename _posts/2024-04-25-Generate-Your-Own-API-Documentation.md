@@ -5,7 +5,6 @@ categories: [Web]
 tags: [api]
 image:
   path: /assets/posts/2024-05-08-Generate-Your-Own-API-Documentation/thumbnail.png
-  alt: 'Thumbnail image with title'
 ---
 
 During a web application assessment, I was testing a web application which, like many web apps, interacted with a database system via a web API. Since the scope solely allowed for testing from a front-end perspective, I was not provided with any API documentation such as Postman or Swagger files.
