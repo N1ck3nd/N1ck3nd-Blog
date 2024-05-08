@@ -1,10 +1,10 @@
 ---
 title: 'Generate Your Own API Documentation'
-date: 2024-04-25 15:50:00 +0800
+date: 2024-05-08 12:40:00 +0800
 categories: [Web]
 tags: [api]
 image:
-  path: /assets/posts/2024-04-25-Generate-Your-Own-API-Documentation/thumbnail.png
+  path: /assets/posts/2024-05-08-Generate-Your-Own-API-Documentation/thumbnail.png
   alt: 'Thumbnail image with title'
 ---
 
@@ -49,7 +49,7 @@ After everything has been configured correctly, it is time to start browsing and
 
 When you are done clicking through the application and have captured all the HTTP requests, it is time to visit <http://localhost:8081/#/flows> and save the captured data to your local computer.
 
-<img src="/assets/posts/2024-04-25-Generate-Your-Own-API-Documentation/mitmweb.png" alt="mitmweb Interface" width="700"/>
+<img src="/assets/posts/2024-05-08-Generate-Your-Own-API-Documentation/mitmweb.png" alt="mitmweb Interface" width="700"/>
 
 ### Creating documentation with `mitmproxy2swagger`
 
@@ -133,4 +133,4 @@ mitmproxy2swagger -i flows -o spec.yml -p http://crapi:8888 -f flow
 
 Finally, take the `spec.yml` file and import the contents into SwaggerEditor or Postman to view requests, request methods, request parameters, and responses. From here, you can begin to develop a deeper understanding of how a specific API works and start identifying potential vulnerabilities and misconfigurations.
 
-<img src="/assets/posts/2024-04-25-Generate-Your-Own-API-Documentation/swaggereditor.png" alt="SwaggerEditor" width="1000"/>
+<img src="/assets/posts/2024-05-08-Generate-Your-Own-API-Documentation/swaggereditor.png" alt="SwaggerEditor" width="1000"/>
