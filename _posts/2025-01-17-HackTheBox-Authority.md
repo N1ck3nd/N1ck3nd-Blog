@@ -343,7 +343,7 @@ p[REDACTED]3
 
 ### HTTP - TCP 8443
 
-Equipped with a potentially valid password, I find the PWM application running on Apache Tomcat at port TCP 8443. PWM is running in configuration mode....Interesting.
+Equipped with a potentially valid password, I find the PWM application running on Apache Tomcat at TCP port 8443. PWM is running in configuration mode....Interesting.
 
 <img src="assets/posts/2025-01-17-HackTheBox-Authority/pwm-interface.png" alt="PWM Web Interface" width="1000"/>
 
