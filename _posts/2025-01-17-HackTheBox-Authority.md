@@ -291,7 +291,7 @@ ldap_admin_password: !vault |
 
 ### Crack Ansible Vault Secret
 
-To be able to crack the Ansible vault secret using `john` or `hashcat`, the hash needs to be converted to a different format using `ansible2john.py`.
+To be able to crack the Ansible vault secret using `john` or `hashcat`, the hash needs to be converted to a different format using [`ansible2john.py`](https://github.com/openwall/john/blob/bleeding-jumbo/run/ansible2john.py).
 
 ```bash
 $ ./ansible2john.py vault.hash | cut -d ':' -f2 | tee hash.txt
