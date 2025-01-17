@@ -587,7 +587,7 @@ Traceback (most recent call last):
   File "/home/n1ck3nd/HackTheBox/Authority/blog_files/PKINITtools/gettgtpkinit.py", line 349, in <module>
     main()
     ~~~~^^
-  File "/home/n1ck3nd/CTFs/HackTheBox/Authority/blog_files/PKINITtools/gettgtpkinit.py", line 345, in main
+  File "/home/n1ck3nd/HackTheBox/Authority/blog_files/PKINITtools/gettgtpkinit.py", line 345, in main
     amain(args)
     ~~~~~^^^^^^
   File "/home/n1ck3nd/HackTheBox/Authority/blog_files/PKINITtools/gettgtpkinit.py", line 315, in amain
